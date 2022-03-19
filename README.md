@@ -1,7 +1,7 @@
 ## Olá, seja bem-vindo(a) 👋🏼
 ### 👨🏻‍💻 Um pouco sobre mim: 
-- 🎓 Estudante de Engenharia da Computação em <a href="https://www.uema.br">UEMA</a>
-- 🚀 Desenvolvedor aspirante a FullStack
+- 🎓 Engenheiro da Computação formado pela <a href="https://www.uema.br">UEMA</a>
+- 🚀 Desenvolvedor Mobile
 - 🚀 Desbravando o mundo do UX Design
 - ❤ Amante dos processos, orientado a solução e sempre buscando novos desafios.
 
