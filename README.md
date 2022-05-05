@@ -2,7 +2,7 @@
 ### 👨🏻‍💻 Um pouco sobre mim: 
 - 🎓 Engenheiro da Computação formado pela <a href="https://www.uema.br">UEMA</a>
 - 🚀 Desenvolvedor Mobile
-- 🚀 Desbravando o mundo do UX Design
+- 🚀 UX Designer certificado pela <a href="https://uxunicornio.com.br">UX Unicórnio</a>
 - ❤ Amante dos processos, orientado a solução e sempre buscando novos desafios.
 
 ### 📫 Entre em contato comigo:
