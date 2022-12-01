@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on personal projects, asap I`ll publish them on Play Store.<br>👯 I’m looking to collaborate on Mobile Apps, package development and maybe Web Projects.<br>🤝 I’m looking for help with Flutter and Dart for anyone that`s asks my help.<br>🌱 I’m currently learning NodeJS<br>💬 Ask me about UX Design, Flutter, Discovering, Quality of Service.<br>⚡ I love playing video games but I suck at all games... 🤣🤣
+🔭 I’m currently working on personal projects, asap I`ll publish them on Play Store.
+👯 I’m looking to collaborate on Mobile Apps, package development and maybe Web Projects.<br>🤝 I’m looking for help with Flutter and Dart for anyone that`s asks my help.
+🌱 I’m currently learning NodeJS<br>💬 Ask me about UX Design, Flutter, Discovering, Quality of Service.<br>⚡ I love playing video games but I suck at all games... 🤣🤣
 
 
 ## 🌐 Socials:
