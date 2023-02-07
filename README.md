@@ -1,26 +1,45 @@
-# 💫 About Me:
-🔭 I’m currently working on personal projects, asap I'll publish them on Play Store.<br>
-👯 I’m looking to collaborate on Mobile Apps, package development and maybe Web Projects.<br>
-🤝 I’m looking for help with Flutter and Dart for anyone that's asks my help.<br>
-🌱 I'm currently learning NodeJS.<br>
-💬 Ask me about UX Design, Flutter, Discovering, Quality of Service.<br>
-⚡ I love playing video games but I suck at all games... 🤣🤣
+
+## 🚀 About me [![](https://visitcount.itsvg.in/api?id=KemberllyKib3&icon=3&color=2)](https://visitcount.itsvg.in)
+Hello and welcome to my Github profile! My name is ***Kemberlly Rocha*** and I am a software developer, engineer and technology enthusiast with a passion for coding and creating innovative solutions to real-world problems.
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/KemberllyKib3#5922) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kemberllysilva_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kemberllyrochasilva) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kemberllysilva) 
+🔭 I’m currently working on personal projects, asap I'll publish them on Play Store.
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KemberllyKib3&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KemberllyKib3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KemberllyKib3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+👯 I’m looking to collaborate on Mobile Apps, package development and maybe Web Projects.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+🤝 I’m looking for help with Flutter and Dart for anyone that's asks my help.
 
----
-[![](https://visitcount.itsvg.in/api?id=KemberllyKib3&icon=3&color=2)](https://visitcount.itsvg.in)
+🌱 I'm currently learning NodeJS.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💬 Ask me about UX Design, Programming (especially Flutter), Discovering, Quality of Service.
+
+⚡ Fun fact: I love playing video games but I suck at all... 🤣🤣
+
+
+### 🔗 Contact and Socials
+
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kemberllyrochasilva/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://kemberllysilva.medium.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kemberllysilva_/) [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@domain.com) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/kemberlly-rocha)
+
+
+## 🛠 Skills and expertise
+
+- Proficient in some programming languages such as Dart, JavaScript, and C#.
+- Experience with web development frameworks such as Flutter, Node.js, and NestJS.
+- Good understanding of data structures, algorithms and software design patterns.
+- Knowledge of databases and SQL.
+- Experienced in UI Design and prototyping.
+
+
+## 👨‍💻 Projects
+
+[Shoplist App](): A complete application developed in Flutter for creating and managing shopping lists. (In final stage of development)
+
+[Shoplist API](): A complete API developed in NodeJS + NestJS, to serve the Shoplist application (finished but still on local server)
+
+[PokéChallenge](https://github.com/KemberllyKib3/pokemon-challenge): An application in Flutter, developed for a technical challenge of listing Pokemons coming from an API.
+
+
+## 📊 Github Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=KemberllyKib3&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api?username=KemberllyKib3&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
